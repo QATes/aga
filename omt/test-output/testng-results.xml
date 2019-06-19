@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4632" started-at="2019-06-19T18:57:55Z" finished-at="2019-06-19T18:58:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4632" started-at="2019-06-19T18:57:55Z" finished-at="2019-06-19T18:58:00Z">
+      <class name="omt.omtt">
+        <test-method status="PASS" signature="handlingAlerts()[pri:0, instance:omt.omtt@d2cc05a]" name="handlingAlerts" duration-ms="4610" started-at="2019-06-19T18:57:55Z" finished-at="2019-06-19T18:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingAlerts -->
+      </class> <!-- omt.omtt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
